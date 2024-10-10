@@ -14,7 +14,7 @@
 
 ## 2. Background
 
-### What is Uber Fare Prediction?
+### What is it about?
 
 Uber fare prediction involves estimating the cost of ridesharing services based on various factors like the time and location of pickups and drop-offs, distance traveled, demand, and other contextual variables. The model is trained using historical ride data from 2009–2015 to learn patterns and establish correlations between these features and the fare.
 
@@ -24,7 +24,7 @@ Uber fare prediction involves estimating the cost of ridesharing services based 
 - **Competitive Advantage**: Precise fare estimations give Uber an edge over competitors in the highly competitive ridesharing market, attracting more customers.
 - **Data Insights**: Analyzing fare projections provides insights into peak demand periods, rider behavior, and the impact of external factors on pricing. This data can be leveraged for marketing and resource allocation strategies.
 
-### Research Questions:
+### What are your research questions?
 
 1. Does the time of day significantly affect the fare amount for Uber rides?
 2. Is there a direct positive correlation between the distance of the trip and the fare amount?
@@ -42,7 +42,7 @@ Uber fare prediction involves estimating the cost of ridesharing services based 
   - Number of Rows: 200,000  
   - Number of Columns: 8  
 - **Time Period**: 2009-2015  
-- **Each Row Represents**: A unique Uber ride
+### What does each row represent?(a patient, a school, a crime, etc.)
 
 ### Data Dictionary:
 
@@ -58,12 +58,11 @@ Uber fare prediction involves estimating the cost of ridesharing services based 
 
 - **Categorical Variables**: None
 
-### Target/Label for the ML Model:
+### Which variable/column will be your target/label in your ML model?
 
 - **Target Variable**: `fare_amount`
 
-### Features/Predictors for ML Models:
-
+### Which variables/columns may be selected as features/predictors for your ML models?
 - `pickup_datetime`
 - `pickup_longitude`
 - `pickup_latitude`
