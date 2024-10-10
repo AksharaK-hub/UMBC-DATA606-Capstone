@@ -2,10 +2,9 @@
 
 ## 1. Title and Author
 
-**Project Title**: Uber Fare Prediction  
-**Prepared for**: UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang  
-**Author Name**: Akshara Kocharla  
-
+- **Project Title**: Uber Fare Prediction  
+- **Prepared for**: UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang  
+- **Author Name**: Akshara Kocharla  
 - **GitHub Repository**: [UMBC-DATA606-Capstone](https://github.com/AksharaK-hub/UMBC-DATA606-Capstone/tree/main)  
 - **LinkedIn Profile**: [Akshara Kocharla](https://www.linkedin.com/in/akshara-kocharla-303868189)  
 - **PowerPoint Presentation**: [Link to Presentation]  
