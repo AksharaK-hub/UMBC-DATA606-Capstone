@@ -84,7 +84,8 @@ Visualizations were created to analyze data distribution and relationships betwe
 - **Fare Distribution**: Illustrated a right-skewed distribution for fare amounts, indicating the presence of high-fare outliers.
 - **Rides per Day and Revenue per Day**: Revealed peak usage days and higher revenue on Fridays.
 - **Rides per Month**: Indicated higher ride demand in the spring and early summer months (March-May).
-- "C://Users//aksha//OneDrive//Pictures//Screenshots//Screenshot 2024-11-14 144147.png"
+- ![Screenshot 2024-11-14 144147](https://github.com/user-attachments/assets/8f23596c-5c00-4d94-ab03-8827d6e22ca6)
+
 - 
 - **Box Plot of Fare Amount by Passenger Count**: Provided insights into how fares vary with the number of passengers.
 
