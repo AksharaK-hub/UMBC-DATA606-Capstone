@@ -132,6 +132,7 @@ The project was developed using Jupyter Notebook on a personal laptop, with code
 Model performance was measured using:
 - **Root Mean Square Error (RMSE)** to assess prediction error
 - **R² Score** to evaluate the variance explained by each model
+![Screenshot 2024-11-14 012159](https://github.com/user-attachments/assets/c82e4ccc-099c-45b2-b28b-782adb6d9b30)
 
 Gradient Boosting achieved the best performance with the lowest RMSE and highest R², indicating it was the most accurate model for this prediction task.
 
