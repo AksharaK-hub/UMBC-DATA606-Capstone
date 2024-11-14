@@ -162,3 +162,4 @@ Some limitations of the model include:
 
 1. Streamlit Documentation. Retrieved from [Streamlit Docs](https://docs.streamlit.io/)
 2. Uber Open Dataset [Kaggle ](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
+3. Geopy Distance Calculation. Retrieved from [Geopy Documentation](https://geopy.readthedocs.io/)
