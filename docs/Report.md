@@ -81,16 +81,16 @@ Summary statistics were generated for `fare_amount`, `passenger_count`, `pickup_
 ### Visualizations
 Visualizations were created to analyze data distribution and relationships between variables. Using Plotly Express and Matplotlib:
 - **Trip Distance Histogram**: Showed that most Uber trips were under 5 km.
-- ![Screenshot 2024-11-14 004010](https://github.com/user-attachments/assets/00b42a56-8412-482b-8472-e6b792ed1ed1)
+![Screenshot 2024-11-14 004010](https://github.com/user-attachments/assets/00b42a56-8412-482b-8472-e6b792ed1ed1)
 - **Fare Distribution**: Illustrated a right-skewed distribution for fare amounts, indicating the presence of high-fare outliers.
-- ![Screenshot 2024-11-14 004217](https://github.com/user-attachments/assets/41ff137c-f712-4242-9e83-533a9060b66c)
+![Screenshot 2024-11-14 004217](https://github.com/user-attachments/assets/41ff137c-f712-4242-9e83-533a9060b66c)
 - **Rides per Day and Revenue per Day**: Revealed peak usage days and higher revenue on Fridays.
-- ![Screenshot 2024-11-14 004922](https://github.com/user-attachments/assets/96aaf803-4baf-41a8-b139-24a872cee407)
+![Screenshot 2024-11-14 004922](https://github.com/user-attachments/assets/96aaf803-4baf-41a8-b139-24a872cee407)
+![Screenshot 2024-11-14 005005](https://github.com/user-attachments/assets/5a2375f4-18f0-4a7b-85e4-2a30c29c5eda)
 - **Rides per Month**: Indicated higher ride demand in the spring and early summer months (March-May).
-- ![Screenshot 2024-11-14 005005](https://github.com/user-attachments/assets/5a2375f4-18f0-4a7b-85e4-2a30c29c5eda)
-- ![Screenshot 2024-11-14 144147](https://github.com/user-attachments/assets/8f23596c-5c00-4d94-ab03-8827d6e22ca6) 
+![Screenshot 2024-11-14 144147](https://github.com/user-attachments/assets/8f23596c-5c00-4d94-ab03-8827d6e22ca6) 
 - **Box Plot of Fare Amount by Passenger Count**: Provided insights into how fares vary with the number of passengers.
-- ![Screenshot 2024-11-14 010454](https://github.com/user-attachments/assets/a0a3b8d7-aac4-4368-b910-529ac295996e)
+![Screenshot 2024-11-14 010454](https://github.com/user-attachments/assets/a0a3b8d7-aac4-4368-b910-529ac295996e)
 
 ### Data Cleaning Requirements
 - **Missing Values**: Rows with missing data were removed to ensure data integrity.
