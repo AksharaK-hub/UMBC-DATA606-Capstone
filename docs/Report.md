@@ -7,7 +7,7 @@
 - **Author Name**: Akshara Kocharla  
 - **GitHub Repository**: [UMBC-DATA606-Capstone](https://github.com/AksharaK-hub/UMBC-DATA606-Capstone/tree/main)  
 - **LinkedIn Profile**: [Akshara Kocharla](https://www.linkedin.com/in/akshara-kocharla-303868189)  
-- **PowerPoint Presentation**: [Link to Presentation]  
+- **PowerPoint Presentation**: [[Presentation link] ](https://docs.google.com/presentation/d/1h640j1n830gXRyqSArPa4dMSpb0_CSUE/edit?usp=sharing&ouid=103172384185227209087&rtpof=true&sd=true) 
 - **YouTube Video**: [Link to Video]  
 
 ---
