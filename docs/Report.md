@@ -69,7 +69,6 @@ Uber fare prediction involves estimating the cost of ridesharing services based 
 - `passenger_count`
 - `dropoff_longitude`
 - `dropoff_latitude`
-# Uber Fare Prediction Project
 
 ## Exploratory Data Analysis (EDA)
 
